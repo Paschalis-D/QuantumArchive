@@ -64,3 +64,5 @@ sympy==1.13.3
     # via qiskit
 typing-extensions==4.12.2
     # via qiskit
+numpy
+
